@@ -1,3 +1,4 @@
 secret.txt
 *.log
 __pycache__/
+notes.txt
